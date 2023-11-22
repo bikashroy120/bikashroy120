@@ -11,7 +11,7 @@ I pride myself on doing quality work and maintain excellent communication. I rea
 
 Skills:  HTML / CSS /JAVASCRIPT/NEXT JS / REACT / NODE JS / EXPRESS JS / MONGODB
 
-- 🔭 I’m currently working on Tech DSF . 
+- 🔭 I’m currently working on softtriple . 
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Gtihub 
 - 💬 Ask me about MERN STACK Developer 
